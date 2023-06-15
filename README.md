@@ -12,5 +12,5 @@ whites of the eyes due to a build-up of bilirubin in the bloodstream. If left un
 - In the testing phase, it has accuracy of almost 88%.
 
 ## !IMPORTANT
-- Due to privacy concern, we cannot provide the code and the images of the neonates.
-- For your reference, we have provided with the presentation on the development of the NeoJD
+- Due to privacy concern, the code and images of the neonates cannot be provided.
+- For your reference, the presentation of the NeoJD has been provided.
