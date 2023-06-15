@@ -11,6 +11,11 @@ whites of the eyes due to a build-up of bilirubin in the bloodstream. If left un
 - Afterwards, the data was trained utilising the mean of the RGB value and bilirubin value as the primary features.
 - In the testing phase, it has accuracy of almost 88%.
 
+### Conceptual Image
+
+![Conceptual Image](https://github.com/Sanchit71/Neonatal-Jaundice/assets/102990660/f29429e4-4415-46a2-b664-a7e50f3e0763)
+
+
 ## !IMPORTANT
 - Due to privacy concern, the code and images of the neonates cannot be provided.
 - For your reference, the presentation of the NeoJD has been provided.
