@@ -1,4 +1,4 @@
-![image](https://github.com/Sanchit71/Neonatal-Jaundice/assets/102990660/93367781-63a9-4d70-bb73-90847e9a4f09)# NeoJD
+# NeoJD
 ## Introduction
 Neonatal jaundice is a common condition that affects newborn infants, characterized by a yellow discoloration of the skin and 
 whites of the eyes due to a build-up of bilirubin in the bloodstream. If left untreated, it can lead to serious health complications such as brain damage.
